@@ -1,2 +1,8 @@
-# portfolio
-A clean showcase for a designer or creator.
+# Portfolio
+
+Built with React, Vite, TypeScript and Tailwind CSS.
+
+```bash
+npm install
+npm run dev
+```
